@@ -10,5 +10,4 @@ This profile hosts a collection of personal and academic projects — ranging fr
 
 I’ll be gradually organizing everything under broad themes like:
 - 🧪 Science (e.g., numerical simulations, modeling of physical systems)
-- 🛠️ Engineering (e.g., CFD design, mechanical prototypes)
 - 💹 Finance (e.g., Monte Carlo simulations, analytical tools)
