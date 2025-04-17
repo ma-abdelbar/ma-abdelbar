@@ -1,5 +1,3 @@
-# Mohamed A. Abdelbar
-
 I'm a computational scientist with a multidisciplinary background in **physics**, **materials science**, and **engineering**. This profile hosts a collection of personal and academic projects. I take particular interest in the intersection between simulation, data, and real-world engineering problems.
 
 ---
