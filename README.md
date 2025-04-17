@@ -1,6 +1,6 @@
 # Mohamed A. Abdelbar
 
-I'm a computational scientist with a multidisciplinary background in **physics**, **materials science**, and **engineering**. This profile hosts a collection of personal and academic projects. I specialize in **molecular simulations**, **data-driven modeling**, and **high-performance computing (HPC)**, combining a strong theoretical foundation with practical coding and simulation expertise. I take particular interest in the intersection between simulation, data, and real-world engineering problem.
+I'm a computational scientist with a multidisciplinary background in **physics**, **materials science**, and **engineering**. This profile hosts a collection of personal and academic projects. I take particular interest in the intersection between simulation, data, and real-world engineering problems.
 
 ---
 
